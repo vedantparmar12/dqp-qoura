@@ -5,3 +5,6 @@ distance
 bs4
 numpy
 pickle
+re
+pandas
+plotly
