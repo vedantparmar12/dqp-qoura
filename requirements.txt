@@ -4,5 +4,3 @@ fuzzywuzzy
 distance
 bs4
 numpy
-re
-
